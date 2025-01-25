@@ -47,9 +47,7 @@ When I'm not coding, I enjoy reading tech blogs, contributing to open-source pro
   <img src="https://github-readme-stats.vercel.app/api?username=saad6680&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad6680&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ---
 
